@@ -11,6 +11,14 @@ void sub()
   r=a-b;
   printf("%d",r);
 }
+
+void mul()
+{
+  int a, b , r;
+  r=a*b;
+  printf("%d", r);
+}
+
 void div()
 {
   int a, b , r;
