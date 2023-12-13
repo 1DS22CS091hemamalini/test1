@@ -5,6 +5,12 @@ void add()
   r=a+b;
   printf("%d",r);
 }
+void sub()
+{
+  int a, b , r;
+  r=a-b;
+  printf("%d",r);
+}
 void main()
 {
  add();
