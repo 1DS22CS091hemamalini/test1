@@ -1,6 +1,14 @@
 #include<stdio.h>
+void add()
+{
+  int a, b , r;
+  r=a+b;
+  printf("%d",r);
+}
 void main()
 {
-add();
+ add();
 sub();
+mul();
+div();
 }
