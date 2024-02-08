@@ -12,10 +12,8 @@ void sub()
   printf("%d",r);
 }
 
-
 void main()
 {
  add();
 sub();
-
 }
