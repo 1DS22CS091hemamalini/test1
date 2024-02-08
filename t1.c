@@ -5,19 +5,6 @@ void add()
   r=a+b;
   printf("%d",r);
 }
-void sub()
-{
-  int a, b , r;
-  r=a-b;
-  printf("%d",r);
-}
-
-void mul()
-{
-  int a, b , r;
-  r=a*b;
-  printf("%d", r);
-}
 
 void div()
 {
@@ -27,8 +14,5 @@ void div()
 }
 void main()
 {
- add();
-sub();
-mul();
-div();
+
 }
