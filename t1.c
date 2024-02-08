@@ -5,14 +5,15 @@ void add()
   r=a+b;
   printf("%d",r);
 }
-
-void div()
+void sub()
 {
   int a, b , r;
-  r=a/b;
+  r=a-b;
   printf("%d",r);
 }
+
 void main()
 {
-
+ add();
+sub();
 }
